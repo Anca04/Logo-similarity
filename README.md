@@ -42,5 +42,5 @@ The ideea came from seeing white as predominant in pictures, and also because
 recently I have learned about lights, how they work, and how they help me in
 the similarity problem.
 
-THe problem with this solution is that I don't think is as accurate as a ML
+The problem with this solution is that I don't think is as accurate as a ML
 algorithm using clustering, CNN, OCR.
